@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background-color: rgb(172, 164, 164);
+}
+.clock{
+    display: flex;
+    font-size: x-large;
+    color: rgb(41, 184, 184);
+    text-align: center;
+}
+.clock span {
+    display: inline-block;
+    padding: 90px;
+    background-color: rgb(41, 143, 87);
+    border-radius: 60px;
+    margin: 30 60px;
+}
